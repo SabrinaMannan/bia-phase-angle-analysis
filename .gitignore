@@ -11,3 +11,17 @@ __pycache__/
 
 # Jupyter
 .ipynb_checkpoints/
+
+# Virtual environment
+.venv/
+
+# Data
+data/
+*.dta
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
