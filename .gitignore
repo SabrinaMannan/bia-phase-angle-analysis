@@ -1,0 +1,13 @@
+# Ignore confidential datasets
+data/
+*.dta
+*.csv
+*.xlsx
+*.sav
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
